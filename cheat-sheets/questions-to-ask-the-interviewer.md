@@ -75,3 +75,4 @@ Write down what each interviewer says. Three uses follow:
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-questions-to-ask-the-interviewer) covers each stage of the loop, including the recruiter screen and the offer conversation.
 - [The interview loop](../rounds/interview-loop.md) shows who you are likely to meet.
 - Next sheet: [Red flags](red-flags.md).
+- Free answer: [What questions should I ask at the end of an interview?](https://www.designgurus.io/answers/detail/what-questions-should-i-ask-at-the-end-of-an-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-questions-to-ask-the-interviewer)

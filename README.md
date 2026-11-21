@@ -91,6 +91,15 @@ About four weeks at six hours a week is enough for a candidate who already manag
 
 A staff engineer loop measures technical decisions that affect many teams. A manager loop measures the people and delivery decisions inside one or more teams. The sibling repository [staff-engineer-interview](https://github.com/design-gurus/staff-engineer-interview) covers the staff loop.
 
+## Free reading on DesignGurus.io
+
+- Free article: [Answering engineering leadership interview questions](https://www.designgurus.io/blog/engineering-leadership-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): the manager role, common questions, and mistakes to avoid.
+- Free article: [How to pass the Meta engineering manager interview](https://www.designgurus.io/blog/how-to-ace-the-meta-engineering-manager-interview-process?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): the process, preparation, and tips for one company's loop.
+- Free answer: [The system design interview for engineering managers](https://www.designgurus.io/answers/detail/what-is-the-system-design-interview-for-engineering-managers?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): how the design round differs for a manager.
+- Free article: [Behavioral interview guide for large tech companies](https://www.designgurus.io/blog/faang-behavioral-interview-guide?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): question types and answer structure.
+- Free article: [How to craft compelling behavioral interview stories](https://www.designgurus.io/blog/how-to-craft-compelling-behavioral-interview-stories?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): choosing and shaping the stories for a story bank.
+- Free article: [Amazon's 16 Leadership Principles behavioral interview guide](https://www.designgurus.io/blog/amazon-leadership-principles-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=readme): for manager loops at Amazon.
+
 ## Go deeper
 
 The pages here are summaries. The courses below contain full lessons, worked answers, and practice questions.

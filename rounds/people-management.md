@@ -53,3 +53,4 @@ The fifth part is the one most candidates omit, and it is the part that shows th
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-people-management) has a full chapter on people leadership questions, with a worked answer for each family above.
 - [STAR for managers](../cheat-sheets/star-for-managers.md) shows the answer structure with a weak and a strong sample.
 - [Red flags](../cheat-sheets/red-flags.md) lists the answer patterns that cause a rejection in this round.
+- Free article: [Answering engineering leadership interview questions](https://www.designgurus.io/blog/engineering-leadership-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-people-management), covering the manager role, common questions, and mistakes to avoid.
