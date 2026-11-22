@@ -1,0 +1,66 @@
+# Engineering Manager Interview
+
+> The manager loop round by round: people management, project retrospective, behavioral, and system design for managers. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Cheat sheets
+
+- [A Four-Week Preparation Plan](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/four-week-plan.md): This plan prepares a working manager for an engineering manager loop in four weeks, at about six hours a week.
+- [Engineer and Manager Roles Compared](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/ic-vs-manager.md): An individual contributor (IC) is an engineer who is measured on the work they produce themselves.
+- [Questions to Ask the Interviewer](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/questions-to-ask-the-interviewer.md): Most rounds end with five minutes for the candidate's questions.
+- [Red Flags in an Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/red-flags.md): A red flag is an answer pattern that makes an interviewer doubt the candidate, regardless of the rest of the answer.
+- [STAR for Engineering Managers](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/star-for-managers.md): STAR is a structure for answering questions about past experience.
+- [The Story Bank](https://github.com/design-gurus/engineering-manager-interview/blob/main/cheat-sheets/story-bank.md): A story bank is a short list of real cases from your career, prepared in advance and mapped to the kinds of questions an interviewer asks.
+
+## Questions
+
+- [Behavioral Interview Questions for Engineering Managers](https://github.com/design-gurus/engineering-manager-interview/blob/main/questions/behavioral-questions.md): These 18 questions ask about the candidate's own past conduct.
+- [People Management Interview Questions](https://github.com/design-gurus/engineering-manager-interview/blob/main/questions/people-management-questions.md): These 20 questions cover the seven subjects that people management rounds return to: low performers, firing, hiring, delegation, top performers, conflict, and diversity.
+- [Project and Delivery Interview Questions](https://github.com/design-gurus/engineering-manager-interview/blob/main/questions/project-and-delivery-questions.md): These 18 questions cover how a manager plans, tracks, and delivers work through a team.
+- [Situational Interview Questions for Engineering Managers](https://github.com/design-gurus/engineering-manager-interview/blob/main/questions/situational-questions.md): These 16 questions describe a hypothetical situation and ask what the candidate would do.
+
+## Rounds
+
+- [The Behavioral Round](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/behavioral.md): A behavioral question asks about something the candidate actually did: "Tell me about a time when..." The round rests on one assumption, which is that past behavior predicts future behavior.
+- [The Coding Round for Engineering Managers](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/coding.md): Some companies ask engineering manager candidates to write code, and some do not.
+- [The Engineering Manager Interview Loop](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/interview-loop.md): An engineering manager loop has three stages: a recruiter screen, a hiring manager screen, and an onsite of four to six rounds.
+- [The People Management Round](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/people-management.md): The people management round asks how the candidate has handled decisions about individual people: a weak performer, a strong performer, a hire, a conflict.
+- [The Project Retrospective Interview](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/project-retrospective.md): A project retrospective interview is a round in which the candidate presents one past project and then defends its decisions under detailed questioning.
+- [The Situational Round](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/situational.md): A situational question describes a hypothetical situation and asks what the candidate would do: "Suppose your best engineer tells you she is leaving.
+- [System Design for Engineering Managers](https://github.com/design-gurus/engineering-manager-interview/blob/main/rounds/system-design-for-managers.md): The system design round asks a manager to design a large system in 45 to 60 minutes, as it does for an engineer.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-the-engineering-manager-interview): The course linked throughout this guide.
