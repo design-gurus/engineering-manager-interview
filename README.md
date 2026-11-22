@@ -124,6 +124,8 @@ The pages here are summaries. The courses below contain full lessons, worked ans
 
 Related free repositories: [grokking-system-design](https://github.com/design-gurus/grokking-system-design), [staff-engineer-interview](https://github.com/design-gurus/staff-engineer-interview), and [amazon-leadership-principles](https://github.com/design-gurus/amazon-leadership-principles).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new questions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
