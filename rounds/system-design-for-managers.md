@@ -56,6 +56,7 @@ Four sentences of this kind take two minutes and show that the candidate thinks 
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-system-design-for-managers) teaches the design questions that manager loops reuse, with full worked solutions.
+- Lesson: [Technical Skills for Engineering Managers](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/technical-skills-for-engineering-managers?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-system-design-for-managers), in Grokking the Engineering Manager Interview
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-system-design-for-managers) covers the technical and project management skills the round expects from a manager.
 - The free [grokking-system-design](https://github.com/design-gurus/grokking-system-design) repository has pattern pages and question outlines for practice.
 - Free answer: [The system design interview for engineering managers](https://www.designgurus.io/answers/detail/what-is-the-system-design-interview-for-engineering-managers?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-system-design-for-managers)

@@ -55,6 +55,8 @@ It names no person, no decision, and no number. The only concrete action is the 
 ## Go deeper
 
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-star-for-managers) teaches the STAR method for managers and applies it to more than 20 questions.
+- Lesson: [Structuring Your Response with the STAR Method](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/structuring-your-response-with-the-star-method?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-star-for-managers), in Grokking the Engineering Manager Interview
+- Lesson: [Answering as a Manager](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/answering-as-a-manager?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-star-for-managers), in Grokking Modern Behavioral Interview
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-star-for-managers) has sample answers with follow-up questions, including a chapter on answering as a manager.
 - Practice with the [question bank](../questions/README.md).
 - Free answer: [What is the STAR method of interviewing?](https://www.designgurus.io/answers/detail/what-is-the-star-method-of-interviewing?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-star-for-managers)

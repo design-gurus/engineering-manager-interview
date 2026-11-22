@@ -53,5 +53,8 @@ The full list is in [Situational questions](../questions/situational-questions.m
 ## Go deeper
 
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-situational) has a chapter of situational questions with worked answers.
+- Lesson: [What Are Situational Interviews](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/what-are-situational-interviews?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-situational), in Grokking the Engineering Manager Interview
+- Lesson: [Dealing with an Angry or Dissatisfied Customer](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/how-would-you-deal-with-an-angry-or-dissatisfied-customer?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-situational), in Grokking the Engineering Manager Interview
+- Lesson: [Decision-Making Frameworks](https://www.designgurus.io/course-play/grokking-engineering-leadership-interviews/doc/decisionmaking-frameworks?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-situational), in Grokking Engineering Leadership Interviews
 - [Grokking Engineering Leadership Interviews](https://www.designgurus.io/course/grokking-engineering-leadership-interviews?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-situational) covers decision-making frameworks and situational questions at the senior manager and director level.
 - Related page: [Behavioral](behavioral.md).

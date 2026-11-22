@@ -62,5 +62,7 @@ About 40 problems over four weeks, with every solution explained aloud, is a rea
 ## Go deeper
 
 - [Grokking the Engineering Manager Coding Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-coding) is a pattern-based problem set sized for the manager loop.
+- Lesson: [Subarray Sum Equals K (medium)](https://www.designgurus.io/course-play/grokking-the-engineering-manager-coding-interview/doc/subarray-sum-equals-k-medium?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-coding), in Grokking the Engineering Manager Coding Interview
+- Lesson: [Technical Skills for Engineering Managers](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/technical-skills-for-engineering-managers?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-coding), in Grokking the Engineering Manager Interview
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=rounds-coding) covers the technical skills a manager is expected to keep.
 - Related page: [System design for managers](system-design-for-managers.md).

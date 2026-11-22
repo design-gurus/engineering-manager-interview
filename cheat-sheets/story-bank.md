@@ -62,6 +62,7 @@ The last field matters. Preparing the hardest follow-up question for each story 
 ## Go deeper
 
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-story-bank) has a lesson on creating a story bank and one on structuring each response.
+- Lesson: [Creating a Story Bank](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/creating-a-story-bank?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-story-bank), in Grokking the Engineering Manager Interview
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-story-bank) teaches story selection and mapping in more detail.
 - Next sheet: [STAR for managers](star-for-managers.md).
 - Free article: [How to craft compelling behavioral interview stories](https://www.designgurus.io/blog/how-to-craft-compelling-behavioral-interview-stories?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-story-bank)

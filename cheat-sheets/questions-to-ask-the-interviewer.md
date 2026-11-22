@@ -73,6 +73,7 @@ Write down what each interviewer says. Three uses follow:
 ## Go deeper
 
 - [Grokking the Engineering Manager Interview](https://www.designgurus.io/course/grokking-the-engineering-manager-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-questions-to-ask-the-interviewer) covers each stage of the loop, including the recruiter screen and the offer conversation.
+- Lesson: [Asking Questions at the End of the Interview](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/ask-question-at-the-end-of-the-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-questions-to-ask-the-interviewer), in Grokking Modern Behavioral Interview
 - [The interview loop](../rounds/interview-loop.md) shows who you are likely to meet.
 - Next sheet: [Red flags](red-flags.md).
 - Free answer: [What questions should I ask at the end of an interview?](https://www.designgurus.io/answers/detail/what-questions-should-i-ask-at-the-end-of-an-interview?utm_source=github&utm_medium=repo&utm_campaign=engineering-manager-interview&utm_content=cheat-sheets-questions-to-ask-the-interviewer)
